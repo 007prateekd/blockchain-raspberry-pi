@@ -1,0 +1,33 @@
+body {
+  background-image: url(bg.jpg);
+  font-family: 'monospace', monospace;
+  background-attachment: fixed;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin: 1% 0 ;
+}
+
+h2 {
+  text-align: center;
+  margin: 1% 0 ;
+}
+
+.div {
+  margin: auto;
+}
+
+.button { 
+  padding: 4px 6%;
+  margin: 5px 1%;
+}
+
+.on {
+  background-color: green;
+}
+
+.off {
+  background-color: red;
+}
